@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('content')
-    @livewire('counter')
-    @livewire('counter')
+    @livewire('counter') <br>
+    @livewire('counter') br
     @livewire('counter')
 @endsection
